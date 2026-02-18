@@ -10,7 +10,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     "gokulportfolio2026.netlify.app",
-    "portfolio-62em.onrender.com"
+    "portfolio-62em.onrender.com",
     "localhost",
     "127.0.0.1",
 ]
