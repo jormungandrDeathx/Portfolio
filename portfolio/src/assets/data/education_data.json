@@ -1,0 +1,26 @@
+[
+  {
+    "degree": "Master of Computer Application",
+    "institution": "Presidency College",
+    "year": "2023 - 2025",
+    "description": "Focused on software development, full-stack web technologies, and Cloud Computing"
+  },
+  {
+    "degree": "Bachelor of Computer Application",
+    "institution": "Sitadevi Ratachand Nahar Adarsh College",
+    "year": "2020 - 2023",
+    "description": "Specialized in Computer Science stream with an emphasis on problem-solving."
+  },
+  {
+    "degree": "High School (12th Grade)",
+    "institution": "Sitadevi Ratachand Nahar Adarsh College",
+    "year": "2018 - 2020",
+    "description": "Basic knowledge of web development and software projects."
+  },
+  {
+    "degree": "Secondary School (10th Grade)",
+    "institution": "Gurkula International School",
+    "year": "2017 - 2018",
+    "description": "Built foundational academic skills and an early interest in technology."
+  }
+]

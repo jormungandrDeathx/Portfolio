@@ -1,0 +1,16 @@
+[
+    {
+        "title":"Connectify",
+        "logo":"https://res.cloudinary.com/dejrpfbna/image/upload/v1771430197/connectify_pdszpw.png",
+        "description":"Connectify is a social shopping platform that brings people and products together in one engaging experience. It helps you discover new items, share them with friends, and make better purchase decisions together.",
+        "path":"https://connectify2026.netlify.app/",
+        "repo":"https://github.com/jormungandrDeathx/Connectify"
+    },
+    {
+        "title":"Predict Pulse",
+        "logo":"https://res.cloudinary.com/dejrpfbna/image/upload/v1771430199/predict_pulse_c8o5hk.png",
+        "description":"Heart disease is a leading cause of death worldwide, and early prediction is crucial to reduce mortality. This project uses machine learning algorithms such as Decision Tree and Random Forest to analyze patient datasets and accurately predict the risk of heart disease at an early stage.",
+        "path":"https://predict-pulse.onrender.com/",
+        "repo":"https://github.com/jormungandrDeathx/PredictPulse"
+    }
+]

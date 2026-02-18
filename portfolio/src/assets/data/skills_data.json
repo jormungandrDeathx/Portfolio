@@ -1,0 +1,80 @@
+[
+    {
+        "logo": "https://res.cloudinary.com/dejrpfbna/image/upload/v1771430197/html-5_s0awk8.png",
+        "lang": "HTML",
+        "cat": "frontend",
+        "description": "Used to structure semantic and accessible web pages following modern HTML5 standards."
+    },
+    {
+        "logo": "https://res.cloudinary.com/dejrpfbna/image/upload/v1771430195/css-3_nrqw9o.png",
+        "lang": "CSS",
+        "cat": "frontend",
+        "description": "Styled responsive layouts using Flexbox, Grid, and modern design techniques for clean UI."
+    },
+    {
+        "logo": "https://res.cloudinary.com/dejrpfbna/image/upload/v1771430202/tailwind_vwat9g.png",
+        "lang": "Tailwind CSS",
+        "cat": "frontend",
+        "description": "Built responsive and modern user interfaces rapidly using utility-first styling and reusable components."
+    },
+    {
+        "logo": "https://res.cloudinary.com/dejrpfbna/image/upload/v1771430198/js_mgjy49.png",
+        "lang": "Vanilla JavaScript",
+        "cat": "frontend",
+        "description": "Implemented dynamic functionality, DOM manipulation, API integration, and interactive UI behavior."
+    },
+    {
+        "logo": "https://res.cloudinary.com/dejrpfbna/image/upload/v1771430201/react_ad3goe.png",
+        "lang": "React",
+        "cat": "frontend",
+        "description": "Developed reusable components, handled state management, and built responsive single-page applications."
+    },
+    {
+        "logo": "https://res.cloudinary.com/dejrpfbna/image/upload/v1771430198/python_vg8z3j.png",
+        "lang": "Python",
+        "cat": "Backend & Python Ecosystem",
+        "description": "Built backend logic, automation scripts, and APIs using clean and maintainable Python code."
+    },
+    {
+        "logo": "https://static.djangoproject.com/img/icon-touch.e4872c4da341.png",
+        "lang": "Django",
+        "cat": "Backend & Python Ecosystem",
+        "description": "Used to structure semantic and accessible web pages following modern HTML5 standards.Developed secure and scalable web applications using Django ORM, authentication, and MVT architecture."
+    },
+    {
+        "logo": "https://res.cloudinary.com/dejrpfbna/image/upload/v1771430197/drf_cuqs5y.png",
+        "lang": "Django REST Framework",
+        "cat": "Backend & Python Ecosystem",
+        "description": "Designed RESTful APIs with serializers, authentication, pagination, and permission handling."
+    },
+    {
+        "logo": "https://res.cloudinary.com/dejrpfbna/image/upload/v1771430198/pgsql_jd1ds3.png",
+        "lang": "PostgreSQL",
+        "cat": "Data & Tools",
+        "description": "Designed relational databases, wrote optimized queries, and managed structured data efficiently."
+    },
+    {
+        "logo": "data:image/png;base64,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",
+        "lang": "Apache Airflow",
+        "cat": "Data & Tools",
+        "description": "Created and scheduled data pipelines, automated workflows, and managed task dependencies."
+    },
+    {
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPPse3e3h_CYeqD8UFLbGXCBlbxTnU-RGtw&s",
+        "lang": "WebSockets",
+        "cat": "Real-World Engineering Tools",
+        "description": "Implemented real-time communication features such as live updates and notifications."
+    },
+    {
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThDBEa60x4QwmJ3tN5RhW3viZZTw9UHh-cWg&s",
+        "lang": "pytest",
+        "cat": "Real-World Engineering Tools",
+        "description": "Wrote unit and integration tests to ensure application reliability and maintainability."
+    },
+    {
+        "logo": "https://res.cloudinary.com/dejrpfbna/image/upload/v1771430198/coverage_neklxc.png",
+        "lang": "Coverage",
+        "cat": "Real-World Engineering Tools",
+        "description": "Measured test coverage and improved code quality by identifying untested logic."
+    }
+]

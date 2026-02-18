@@ -1,0 +1,21 @@
+[
+    {
+        "name":"PostgreSQL Bootcamp : Complete Beginner to Advanced Course",
+        "issued":"Udemy",
+        "cat":"db",
+        "link":"https://www.udemy.com/certificate/UC-f5c8a953-4a74-4ac4-80eb-4924555bcd73/"
+    },
+    {
+        "name":"Mastering Cybersecurity: Essential Knowledge and Techniques",
+        "issued":"Udemy",
+        "cat":"cybersecurity",
+        "link":"https://www.udemy.com/certificate/UC-002e0ade-a1ef-4993-bab5-feef278631d1/"
+    },
+    {
+        "name":"Practical SQL with SQLite",
+        "issued":"Udemy",
+        "cat":"db",
+        "link":"https://www.udemy.com/certificate/UC-035f09f1-a2a3-4c50-a9fc-74be6ae6d950/"
+    }
+
+]
