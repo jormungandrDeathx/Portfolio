@@ -14,6 +14,7 @@ import axios from "axios";
 
 
 function Contact() {
+  axios.defaults.baseURL = import.meta.env.VITE_API_BASE_URL
   const [loading, setLoading] = useState(false);
   const [alert, setAlert] = useState(false)
   const [message, setMessage] = useState("")
@@ -45,7 +46,7 @@ function Contact() {
     setLoading(true);
     try {
       const res = await axios.post(
-        "http://localhost:8000/api/contact/",
+        "contact/",
         formData,
       );
       if(res.status === 201){
