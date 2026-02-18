@@ -130,11 +130,14 @@ Email Service:
 
 ## Screenshots
 
-Add screenshots of:
+### Home Page
+![Home Page](screenshots/home.png)
 
-* Home Page
-* Projects Page
-* Contact Page
+### Projects Page
+![Projects Page](screenshots/projects.png)
+
+### Contact Page
+![Contact Page](screenshots/contact.png)
 
 ---
 
