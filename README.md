@@ -7,10 +7,9 @@ Built to demonstrate my work in **React, Django, and Python**, and to provide an
 
 ## Live Demo
 
-Add your deployed link here:
 
 ```
-https://your-portfolio-link.com
+https://gokulportfolio2026.netlify.app/
 ```
 
 ---
@@ -42,13 +41,6 @@ https://your-portfolio-link.com
 * Django REST Framework
 * PostgreSQL
 
-### Tools & Technologies
-
-* WebSockets
-* pytest
-* coverage
-* Apache Airflow
-
 ---
 
 ## Folder Structure
@@ -76,7 +68,7 @@ portfolio/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/jormungandrDeathx/Portfolio.git
 cd portfolio
 ```
 
@@ -151,11 +143,6 @@ Add screenshots of:
 **Gokul**
 Full Stack Developer
 
-GitHub: https://github.com/yourusername
-LinkedIn: Add your LinkedIn profile
+GitHub: https://github.com/jormungandrDeathx
+LinkedIn: https://www.linkedin.com/in/gokulg28/
 
----
-
-## License
-
-This project is open source and available under the MIT License.
