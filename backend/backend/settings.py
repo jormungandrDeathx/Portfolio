@@ -9,7 +9,8 @@ SECRET_KEY = config("DJANGO_SECRET_KEY")
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "gokulportfolio2026.netlify.app/",
+    "gokulportfolio2026.netlify.app",
+    "portfolio-62em.onrender.com"
     "localhost",
     "127.0.0.1",
 ]
@@ -106,11 +107,12 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 CORS_ALLOWED_ORIGINS = [
-    "https://gokulportfolio2026.netlify.app/"
+    "https://gokulportfolio2026.netlify.app"
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://gokulportfolio2026.netlify.app/"
+    "https://gokulportfolio2026.netlify.app"
+    "https://portfolio-62em.onrender.com"
 ]
 
 CORS_ALLOW_ALL_ORIGINS = False
