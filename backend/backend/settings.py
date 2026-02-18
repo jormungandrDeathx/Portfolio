@@ -117,6 +117,11 @@ CSRF_TRUSTED_ORIGINS = [
 
 CORS_ALLOW_ALL_ORIGINS = False
 
-CORS_ALLOW_METHODS = [
-    "POST"
+CORS_ALLOW_METHODS=[
+    "DELETE",
+    "GET",
+    "OPTIONS",
+    "PATCH",
+    "POST",
+    "PUT"
 ]
